@@ -1,0 +1,21 @@
+{
+  "name": "sit725-2022-t2-prac4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Prac4_server.js",
+  "scripts": {
+    "start": "node Prac4_server.js"
+  },
+  "author": "MD KAVIUL HOSSAIN",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1",
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaviul/sit725-2022-t2-prac4.git"
+  }
+}
